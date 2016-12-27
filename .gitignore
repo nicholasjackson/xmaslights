@@ -1,0 +1,4 @@
+.pioenvs
+.piolibdeps
+.DS_Store
+Makefile
